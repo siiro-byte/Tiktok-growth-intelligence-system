@@ -98,3 +98,65 @@ This section records a real-candidate workflow check. It is not a substitute for
 The novelty gate distinguished a material change to an existing border-measure story from a separate upcoming route announcement, and prevented either from being labelled unconditionally NEW. Candidate A remains on hold pending primary-source confirmation. Candidate B remains on hold pending a complete history check.
 
 Research check date: 1 November 2026 (EAT).
+
+
+## Live operational dry run — 1 November 2026 (EAT)
+
+This is a manual application of the integrated novelty gate to live candidate material. It verifies the decision logic and evidence handling; it is not evidence that an autonomous agent executed the workflow. The run deliberately tests duplicate detection and misleading recency.
+
+### History sources actually inspected
+
+- Earlier TravelAlert.ke conversation history available in this chat.
+- This acceptance-test file, including the 1 November Madagascar and Durban records above.
+- Metricool brand settings: `travelalerts.ke`, connected network shown as TikTok.
+- Metricool scheduled-post query for 25 October–8 November 2026 (Africa/Nairobi): returned no scheduled posts.
+- GitHub repository search for a separate `Content & Source Log`: no matching result found.
+
+Not accessible in this run: published X history, published Telegram history, drafts outside the accessible conversation, and a separate Content & Source Log. Metricool's available scheduled-post result does not provide a complete published-post archive. Therefore, cross-channel uniqueness cannot be claimed.
+
+### Candidate 1 — Kenya Airways Madagascar entry restriction alert (31 October)
+
+- **Underlying event:** Madagascar's reported Ebola-related entry restrictions for travellers recently present in or transiting through Kenya, Nigeria and the DRC, effective 1 November.
+- **Timeline:** Underlying measures pre-date this alert; Kenya Airways alert last updated 31 October 2026; reported effective date 1 November 2026; checked 1 November 2026 EAT.
+- **Closest previous match:** Candidate A in the earlier live integration run in this same file, which already recorded the reported expansion to Kenya and Nigeria.
+- **Material change:** None established in the 31 October Kenya Airways notice compared with the previously logged candidate. The notice adds a reference to Joint Interministerial Note No.651 dated 30 October, but the traveller-facing restrictions described are the same.
+- **History inspected:** Earlier conversation and the prior live integration record in this file; Metricool scheduled-post query (empty). X, Telegram, external drafts and Content & Source Log unavailable.
+- **Status:** REPEATED.
+- **Decision:** REJECT AS DUPLICATE.
+- **Reason:** A later airline notice or a newly cited document does not by itself make the same measure a new alert. The underlying claim also remains subject to the earlier primary-source verification hold; this duplicate classification does not validate the legal scope.
+- **Evidence:** Kenya Airways travel alert, last updated 31 October 2026: https://keairlines.com/en/travel-alerts/ (search result surfaced at https://keai02mstrw5s9cprod.dxcloud.episerver.net/en/travel-alerts/).
+
+### Candidate 2 — Reported 30 October update to UK FCDO Kenya advice
+
+- **Underlying event:** Search metadata suggested a new 30 October update concerning the Kenya–Ethiopia border.
+- **Timeline:** Search result said updated 30 October 2026; the opened GOV.UK page body instead displayed “Still current at 10 August 2026”, “Updated 24 June 2026”, and a June/July protest update. Checked 1 November 2026 EAT.
+- **Closest previous match:** Earlier TravelAlert.ke history includes previous Ethiopia-related coverage; full channel history unavailable.
+- **Material change:** None could be verified from the opened official page because its visible page content did not match the search metadata.
+- **History inspected:** Accessible conversation history and this repository's previous test records. X, Telegram, external drafts and Content & Source Log unavailable.
+- **Status:** UNVERIFIED.
+- **Decision:** HOLD FOR EVIDENCE.
+- **Reason:** The official page content and search metadata conflict. Do not publish a new border alert until the actual current page section and precise change are retrieved. This candidate is also not promoted simply to fill a daily quota.
+- **Evidence:** GOV.UK Kenya travel advice: https://www.gov.uk/foreign-travel-advice/kenya
+
+### Candidate 3 — RwandAir travel-alert page surfaced with a 31 October date
+
+- **Underlying event:** The search result surfaced a traffic advisory whose body refers to a presidential swearing-in scheduled for 11 August 2024.
+- **Timeline:** Search result showed a 31 October 2026 page date; the event text itself refers to 11 August 2024. Checked 1 November 2026 EAT.
+- **Closest previous match:** No matching TravelAlert.ke post was found in the accessible history; full channel history unavailable.
+- **Material change:** None established. The visible advisory text is about a 2024 event, not a confirmed current travel disruption.
+- **History inspected:** Accessible conversation history and this repository's previous test records. X, Telegram, external drafts and Content & Source Log unavailable.
+- **Status:** UNVERIFIED.
+- **Decision:** HOLD FOR EVIDENCE.
+- **Reason:** A recent page or indexing date cannot turn an old event into a current alert. The source page could not be opened successfully in this run.
+- **Evidence:** RwandAir travel alerts: https://www.rwandair.com/tr-en/media-center/travel-alerts
+
+### Operational dry-run result
+
+- Duplicate trap: **correctly rejected** — the Madagascar alert was not relabelled NEW because of a later airline notice.
+- Conflicting date metadata: **held** — the FCDO Kenya update was not treated as confirmed.
+- Old event with recent page date: **held** — the RwandAir notice was not treated as current.
+- Full-history safeguard: **triggered** — no claim of complete X, Telegram, drafts or Content & Source Log inspection.
+
+**Result:** The manual live dry run demonstrates the required classifications and safeguards on these three cases. It does not establish that the seven-case acceptance suite has passed, nor that the integrated instructions execute autonomously. The next validation needed is a run in the actual agent environment with access to published X/Telegram history and the Content & Source Log.
+
+Research check date: 1 November 2026 (EAT).
