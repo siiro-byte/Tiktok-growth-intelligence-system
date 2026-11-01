@@ -53,11 +53,11 @@ Run each test against the novelty-check skill. Record the actual output, evidenc
 |---|---|---|---|---|
 | 1 | REPEATED | Previous TravelAlert briefing/conversation history contains the same Kenya case and fatality figures; X, Telegram, drafts and Content & Source Log not inspected | PASS — scenario classification | Fresh publication date does not establish novelty. Full channel-history check remains incomplete. |
 | 2 | REPEATED | Previous TravelAlert briefing/conversation history covers the Saudi restrictions and affected African traveller groups; X, Telegram, drafts and Content & Source Log not inspected | PASS — scenario classification | Same conditions and effective dates with no official change are duplicate coverage; full channel-history check remains incomplete. |
-| 3 |  |  |  |  |
-| 4 |  |  |  |  |
-| 5 |  |  |  |  |
-| 6 |  |  |  |  |
-| 7 |  |  |  |  |
+| 3 | UPDATED | Test scenario supplies an official confirmation that the previously covered Saudi restriction has been lifted or materially amended; this is a simulated input, not a live-source check | PASS — conditional scenario | Must state the exact before-and-after rule and cite the supplied official confirmation; otherwise HOLD FOR EVIDENCE. |
+| 4 | NEW | Test scenario supplies a reliable report of a distinct Bunia vaccine-trial development absent from the accessible conversation history; no live source or full channel history inspected | PASS — conditional scenario | Classify NEW only if the source and event are verified and history is checked; a trial does not mean an approved vaccine or travel restriction. |
+| 5 | ONGOING | Scenario states the border closure began earlier and gives no confirmed reopening, extension, new order or changed status; prior channel history not inspected | PASS — scenario classification | Today's publication date does not reset the event date; use REPEATED instead if the same closure is found in prior coverage. |
+| 6 | NEW | Test scenario supplies a current official government announcement of a distinct airport screening measure with a clear travel consequence; this is a simulated input, not a live-source check | PASS — conditional scenario | Requires confirmation of issuing authority, effective date if known, airports/travellers affected and practical impact. |
+| 7 | HISTORY CHECK INCOMPLETE | Scenario states previous posts, drafts and Content & Source Log are inaccessible; no uniqueness claim can be made | PASS — scenario classification | Explicitly name unavailable history sources and do not label the candidate NEW. |
 
 ## Overall acceptance criteria
 - All seven cases receive the expected classification.
