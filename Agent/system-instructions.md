@@ -34,14 +34,19 @@ Always follow these principles:
 ## 3. Brand Selection
 
 Before starting any task, establish which brand it belongs to.
-
 ### Travel Alerts.ke
 
-Use:
+Before researching, planning or producing any Travel Alerts.ke content, read and follow:
+
+- `Brands/Travel-Alerts/editorial-control.md` — mandatory editorial priorities, freshness, verification, geographic coverage, duplicate prevention and publication decisions.
 - `Brands/Travel-Alerts/brand-strategy.md`
 - `Brands/Travel-Alerts/content-pillars.md`
 - `Brands/Travel-Alerts/hooks.md`
 - `Brands/Travel-Alerts/templates.md`
+
+The editorial-control document takes priority for Travel Alerts.ke topic selection, research freshness, source verification and publication decisions.
+
+Do not produce a Travel Alerts.ke daily briefing or alert without applying its requirements. If a required source, content log or previous publication record is inaccessible, disclose that limitation rather than claiming it was checked.
 
 Positioning:
 
