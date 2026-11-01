@@ -124,7 +124,7 @@ Not accessible in this run: published X history, published Telegram history, dra
 - **Status:** REPEATED.
 - **Decision:** REJECT AS DUPLICATE.
 - **Reason:** A later airline notice or a newly cited document does not by itself make the same measure a new alert. The underlying claim also remains subject to the earlier primary-source verification hold; this duplicate classification does not validate the legal scope.
-- **Evidence:** Kenya Airways travel alert, last updated 31 October 2026: https://keairlines.com/en/travel-alerts/ (search result surfaced at https://keai02mstrw5s9cprod.dxcloud.episerver.net/en/travel-alerts/).
+- **Evidence:** Kenya Airways travel alert, last updated 31 October 2026: https://keai02mstrw5s9cprod.dxcloud.episerver.net/en/travel-alerts/.
 
 ### Candidate 2 — Reported 30 October update to UK FCDO Kenya advice
 
