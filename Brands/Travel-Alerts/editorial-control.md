@@ -206,22 +206,45 @@ For each item include:
 9. Primary source and supporting source.
 10. Recommended content angle.
 
-## 10. Duplicate and Repetition Control
+## 10. Mandatory Novelty and Duplicate Gate
 
-Before recommending a topic:
+Run the dedicated novelty skill on **every Travel Alerts.ke candidate** before it advances to source verification, editorial selection or content production:
 
-1. Check recent published content, drafts and available content logs.
-2. Search for the same event, policy, country and affected traveller group.
-3. Compare the proposed story with previous coverage.
-4. Identify what has materially changed.
-5. Explain why a follow-up is justified.
+`Skills/Travel-Alerts/novelty-check/SKILL.md`
 
-A repeat story is allowed only when there is meaningful new information, a changed status, newly affected travellers or a useful practical follow-up.
+This is a mandatory workflow gate, not an optional final check.
 
-If previous posts, drafts or logs cannot be accessed, state that the duplicate check is incomplete.
+### Required sequence
 
-Never claim that a topic is new merely because it has not appeared in the current conversation.
+1. Normalize the underlying event: issuing actor, action or incident, location, affected travellers, dates and travel consequence.
+2. Separate the event date, original publication date, effective date, latest material update and research check time (EAT).
+3. Inspect accessible recent posts, drafts, previous briefings and the Content & Source Log.
+4. Compare the underlying event with previous coverage. A new headline, article or publication date is not evidence of novelty.
+5. Apply exactly one status from the skill:
+   - **NEW**
+   - **UPDATED**
+   - **ONGOING**
+   - **REPEATED**
+   - **UNVERIFIED**
+   - **HISTORY CHECK INCOMPLETE**
+6. Apply the skill's corresponding decision and record the reason and evidence.
 
+### Workflow decisions
+
+- **NEW:** May proceed to source verification and editorial selection.
+- **UPDATED:** May proceed as an update only when the exact before-and-after change is identified and sourced.
+- **ONGOING:** Monitor; do not repackage as a new alert without a material change.
+- **REPEATED:** Reject as duplicate unless a genuinely useful, evidenced follow-up is justified.
+- **UNVERIFIED:** Hold for evidence; do not publish as confirmed.
+- **HISTORY CHECK INCOMPLETE:** Do not label the candidate NEW or claim a complete duplicate check. Hold until history is checked or an editor explicitly approves proceeding with the limitation disclosed.
+
+### History-access and integrity rules
+
+If X, Telegram, drafts or the Content & Source Log are unavailable, name the sources that could and could not be inspected. Never claim to have checked a source unless it was actually accessible and inspected during that run.
+
+Novelty is separate from truth. A NEW or UPDATED classification does not replace the source-verification requirements in Section 6, and it does not authorize publication by itself.
+
+Daily post targets must never override this gate.
 ## 11. Publication Decisions
 
 Every researched topic must receive one decision:
