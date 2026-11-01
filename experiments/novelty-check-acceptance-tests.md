@@ -160,3 +160,32 @@ Not accessible in this run: published X history, published Telegram history, dra
 **Result:** The manual live dry run demonstrates the required classifications and safeguards on these three cases. It does not establish that the seven-case acceptance suite has passed, nor that the integrated instructions execute autonomously. The next validation needed is a run in the actual agent environment with access to published X/Telegram history and the Content & Source Log.
 
 Research check date: 1 November 2026 (EAT).
+
+
+## Full-batch acceptance review — 1 November 2026 (EAT)
+
+All seven defined acceptance scenarios were reviewed together in one pass against the current novelty skill and integrated editorial controls. This is a manual scenario-level acceptance review, not an autonomous execution by a deployed agent.
+
+| Test | Expected classification | Expected decision | Result | Reason |
+|---|---|---|---|---|
+| 1 — Kenya Ebola figures repeated in a newer article | REPEATED | REJECT AS DUPLICATE | PASS — scenario-level | Same underlying case and fatality figures already appear in accessible prior TravelAlert.ke conversation history; newer publication date alone is not novelty. |
+| 2 — Saudi entry restrictions republished without a changed rule | REPEATED | REJECT AS DUPLICATE | PASS — scenario-level | Same conditions and effective dates with no official change remain repeat coverage. |
+| 3 — Saudi restriction officially lifted or materially amended | UPDATED | PROCEED AS UPDATE, only with verified official evidence | PASS — conditional scenario | The scenario supplies an official confirmation. The output must state the precise before-and-after change; without that evidence the decision must be HOLD FOR EVIDENCE. |
+| 4 — Distinct Bunia vaccine-trial development | NEW | PROCEED to source verification, not publication | PASS — conditional scenario | The scenario assumes a reliable source and no match in accessible history. It must not imply that a trial is an approved vaccine or a travel restriction. |
+| 5 — Previously announced border closure continues unchanged | ONGOING | MONITOR | PASS — conditional scenario | No new order, extension, reopening or changed status is supplied. If history shows the same closure was already covered, classify REPEATED instead. |
+| 6 — Distinct airport screening measure in an official government announcement | NEW | PROCEED to source verification, not publication | PASS — conditional scenario | The scenario assumes a current official announcement and clear travel consequence. Verify authority, effective date, airports and affected travellers. |
+| 7 — Relevant history sources are inaccessible | HISTORY CHECK INCOMPLETE | HOLD — HISTORY INCOMPLETE | PASS — scenario-level | The system must name unavailable sources and must not claim the candidate is unique or NEW. |
+
+### Batch outcome
+
+- **7/7 scenario expectations matched** in this manual review.
+- **4 scenario-level classifications** (Tests 1, 2, 5 and 7) were checked against the rule logic and accessible conversation context.
+- **3 conditional scenarios** (Tests 3, 4 and 6) depend on the official evidence and history conditions stated in their test inputs; they are not live-source verifications.
+- **0/7 autonomous agent executions** have been demonstrated. The repository contains instructions and acceptance cases; this run did not invoke a deployed agent runtime.
+- The separate three-candidate live dry run is recorded above and should not be counted as execution of the seven acceptance tests.
+
+### Remaining validation boundary
+
+To complete end-to-end system testing, run these same seven inputs through the actual agent runtime, with its real source retrieval and accessible TravelAlert.ke publishing-history connectors. Capture each agent output and compare it to this expected-result table. Until then, mark the suite **MANUAL SCENARIO REVIEW PASSED — AUTONOMOUS EXECUTION NOT YET VERIFIED**.
+
+Research check date: 1 November 2026 (EAT).
