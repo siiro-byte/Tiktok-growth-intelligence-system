@@ -52,7 +52,7 @@ Run each test against the novelty-check skill. Record the actual output, evidenc
 | Test | Actual classification | Evidence/history inspected | Pass or fail | Notes |
 |---|---|---|---|---|
 | 1 | REPEATED | Previous TravelAlert briefing/conversation history contains the same Kenya case and fatality figures; X, Telegram, drafts and Content & Source Log not inspected | PASS — scenario classification | Fresh publication date does not establish novelty. Full channel-history check remains incomplete. |
-| 2 |  |  |  |  |
+| 2 | REPEATED | Previous TravelAlert briefing/conversation history covers the Saudi restrictions and affected African traveller groups; X, Telegram, drafts and Content & Source Log not inspected | PASS — scenario classification | Same conditions and effective dates with no official change are duplicate coverage; full channel-history check remains incomplete. |
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
