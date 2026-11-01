@@ -51,7 +51,7 @@ Run each test against the novelty-check skill. Record the actual output, evidenc
 ## Test recording template
 | Test | Actual classification | Evidence/history inspected | Pass or fail | Notes |
 |---|---|---|---|---|
-| 1 |  |  |  |  |
+| 1 | REPEATED | Previous TravelAlert briefing/conversation history contains the same Kenya case and fatality figures; X, Telegram, drafts and Content & Source Log not inspected | PASS — scenario classification | Fresh publication date does not establish novelty. Full channel-history check remains incomplete. |
 | 2 |  |  |  |  |
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
