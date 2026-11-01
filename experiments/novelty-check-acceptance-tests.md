@@ -68,3 +68,33 @@ Run each test against the novelty-check skill. Record the actual output, evidenc
 - Evidence and history inspected are recorded for every run.
 
 A specification review is not an execution result. Mark the suite as passed only after all seven cases have actually been run and their outputs recorded.
+
+
+## Live integration run — 1 November 2026 (EAT)
+
+This section records a real-candidate workflow check. It is not a substitute for a complete review of Travel Alerts.ke's X, Telegram, drafts and Content & Source Log.
+
+### Candidate A — Madagascar expands Ebola-related border measures
+
+- **Underlying event:** Madagascar's existing Ebola-related border measures are reported to have been extended to travellers who have recently been in or transited through Kenya and Nigeria, alongside the DRC.
+- **Timeline:** Reports dated 31 October 2026; reported effective date 1 November 2026. The original underlying border measures pre-date this expansion.
+- **Novelty status:** UPDATED — the reported addition of Kenya and Nigeria is a material change to the countries covered by the existing measures.
+- **Confidence:** PARTLY CONFIRMED. Kenya Airways published a passenger alert describing the restrictions, and the UK FCDO entry guidance describes Ebola-related entry screening and restrictions. However, the exact Madagascar government order and detailed scope were not independently retrieved from a primary Madagascar government source in this run.
+- **Decision:** HOLD FOR EVIDENCE before publication. Obtain the original Madagascar Ministry of Public Health / government notice and verify the exact affected travel-history window, nationality exemptions, transit rules, effective date and quarantine conditions.
+- **Traveller relevance:** Travellers who have recently been in or transited through Kenya, Nigeria or the DRC and are bound for Madagascar should check with their airline and Madagascar authorities before departure. Do not overstate the measure as a blanket ban on all Kenyan or Nigerian passport holders without confirming the legal wording.
+- **Source references checked:** Kenya Airways travel alert (31 October 2026); UK FCDO Madagascar entry guidance; Australian Smartraveller Madagascar advice; WHO Ebola disease outbreak update. WHO's advice against general travel or trade restrictions is separate from Madagascar's reported national entry measures.
+- **History limitation:** Prior TravelAlert.ke conversation history was consulted. X, Telegram, drafts and the Content & Source Log were not inspected; uniqueness across all channels is not established.
+
+### Candidate B — Ethiopian Airlines Durban service resumption
+
+- **Underlying event:** Ethiopian Airlines announced on 29 September 2026 that it plans to resume daily passenger flights to Durban from 11 December 2026.
+- **Novelty status:** HISTORY CHECK INCOMPLETE. The announcement is a distinct route development in the source reviewed, but full TravelAlert.ke history was not accessible for comparison.
+- **Decision:** HOLD — HISTORY INCOMPLETE. If no earlier coverage is found, it may be considered as a previously announced upcoming route, not described as breaking news on 1 November.
+- **Source checked:** Ethiopian Airlines corporate announcement dated 29 September 2026.
+- **History limitation:** X, Telegram, drafts and the Content & Source Log were not inspected.
+
+### Integration-run conclusion
+
+The novelty gate distinguished a material change to an existing border-measure story from a separate upcoming route announcement, and prevented either from being labelled unconditionally NEW. Candidate A remains on hold pending primary-source confirmation. Candidate B remains on hold pending a complete history check.
+
+Research check date: 1 November 2026 (EAT).
