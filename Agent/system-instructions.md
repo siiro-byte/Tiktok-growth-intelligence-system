@@ -39,6 +39,7 @@ Before starting any task, establish which brand it belongs to.
 Before researching, planning or producing any Travel Alerts.ke content, read and follow:
 
 - `Brands/Travel-Alerts/editorial-control.md` — mandatory editorial priorities, freshness, verification, geographic coverage, duplicate prevention and publication decisions.
+- `Skills/Travel-Alerts/novelty-check/SKILL.md` — mandatory pre-selection novelty gate. Run it on every Travel Alerts.ke candidate to distinguish genuinely new developments, material updates, ongoing stories, duplicates, unverified claims and incomplete history.
 - `Brands/Travel-Alerts/brand-strategy.md`
 - `Brands/Travel-Alerts/content-pillars.md`
 - `Brands/Travel-Alerts/hooks.md`
