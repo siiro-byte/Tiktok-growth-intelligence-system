@@ -110,3 +110,8 @@ Add a new record for every experiment. Never overwrite previous results.
 
 Test deliberately. Measure consistently. Learn from evidence. Apply successful findings without compromising either brand's identity or credibility.
 
+
+
+## Research sources
+
+Use the [TikTok Growth Intelligence source registry](https://github.com/siiro-byte/Tiktok-growth-intelligence-system/blob/main/SOURCES.md) for platform-native trend research, creator analytics, competitor observation and links to each brand's project-specific sources. Keep Travel Alerts.ke and Simo Traveller analysis separate.
