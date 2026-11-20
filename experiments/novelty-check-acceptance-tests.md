@@ -1,6 +1,8 @@
 
 # Travel Alerts.ke — Novelty Check Acceptance Tests
 
+The recorded exercises below use historical labels. For current runs, apply the canonical decisions and label mapping in [the novelty-check skill](../Skills/Travel-Alerts/novelty-check/SKILL.md). Known repeats remain rejected when other history is missing. A no-match result with relevant history missing remains outside the fresh shortlist.
+
 ## Purpose
 Check whether the novelty gate distinguishes new developments from repeated reporting and whether it is honest about unavailable history.
 

@@ -3,7 +3,7 @@
 
 ## 1. Purpose
 
-This document controls topic selection, research freshness, verification, editorial priority and publication decisions for Travel Alerts.ke.
+Apply the [master editorial policy](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/CHATGPT.md) and [research procedure](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_RESEARCH.md) for Travel Alerts.ke eligibility. Use this guide for TikTok distribution and packaging. Follow the [publishing runbook](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_PUBLISHING.md) for release approval.
 
 The objective is to publish new, current and relevant travel developments that have a direct or meaningful impact on travellers.
 
@@ -70,7 +70,7 @@ Search across all African regions:
 - Southern Africa.
 - North Africa.
 
-Do not repeatedly concentrate on the same countries when other relevant developments exist.
+Search Africa first. Include Kenyan developments only when verified effects extend across Africa or onto international routes. Avoid repeatedly concentrating on the same countries when other relevant developments exist.
 
 Use global coverage selectively, including the Middle East, Europe, Asia and China when the travel implications justify coverage.
 
@@ -80,11 +80,7 @@ Use East Africa Time (EAT, UTC+3) when recording the research date and time.
 
 ### Research windows
 
-- Breaking news and urgent alerts: prioritise the previous 24 hours.
-- Important continuing developments: expand to 48–72 hours where justified.
-- Airline and airport developments: prioritise the previous 7 days.
-- Tourism and hospitality developments: normally review the previous 7–30 days.
-- Older announcements: include only when there is a material new update, a future effective date or continuing traveller impact.
+Use the master guide's 24-hour EAT window for the daily brief and fresh alerts. Older events require a verified material change within that window. Use 48–72 hours for developing-story discovery, 7 days for aviation leads and 7–30 days for tourism leads or clearly labelled evergreen planning. Continuing impact or a previously announced future effective date alone does not make an old story fresh.
 
 ### Date verification
 
@@ -184,14 +180,9 @@ A high-impact topic with weak evidence must be investigated or monitored, not pu
 
 ## 9. Standard Daily Briefing
 
-When asked for a five-item travel briefing, aim for:
+The general daily briefing contains 0–10 qualified items with no minimum. When the editor requests four African stories and one global story, apply that target only to qualifying candidates and return fewer as needed.
 
-- Four significant African travel developments.
-- One exceptionally important global development affecting African or international travellers.
-
-This is a target, not permission to include weak stories.
-
-If fewer than five developments meet the standard, say so. Never manufacture a fifth item.
+Apply the [TikTok distribution gate](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_RESEARCH.md#tiktok-trend-first-distribution-gate--17-nov-2026) after editorial verification and incident deduplication. Shortlist no more than three distinct TikTok stories per cycle, including zero when none qualify. Use demonstrated demand when available. Verified severe or time-critical alerts remain eligible without trend evidence. Useful verified items without trend evidence normally go to another channel.
 
 For each item include:
 
@@ -208,48 +199,13 @@ For each item include:
 
 ## 10. Mandatory Novelty and Duplicate Gate
 
-Run the dedicated novelty skill on **every Travel Alerts.ke candidate** before it advances to source verification, editorial selection or content production:
+Run the [shared incident-level check](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_RESEARCH.md#hard-stop-story-level-deduplication-2026-11-16) using the local novelty skill as a TikTok handoff. Check history early and record claim confidence independently. The statuses `NEW_VERIFIED` and `MATERIAL_UPDATE_VERIFIED` require completed source verification. Reject known repeats even when other history is missing. If no match is found and relevant history is missing, flag `HISTORY_UNVERIFIED` and refer the story to the editor outside the fresh shortlist.
 
-`Skills/Travel-Alerts/novelty-check/SKILL.md`
-
-This is a mandatory workflow gate, not an optional final check.
-
-### Required sequence
-
-1. Normalize the underlying event: issuing actor, action or incident, location, affected travellers, dates and travel consequence.
-2. Separate the event date, original publication date, effective date, latest material update and research check time (EAT).
-3. Inspect accessible recent posts, drafts, previous briefings and the Content & Source Log.
-4. Compare the underlying event with previous coverage. A new headline, article or publication date is not evidence of novelty.
-5. Apply exactly one status from the skill:
-   - **NEW**
-   - **UPDATED**
-   - **ONGOING**
-   - **REPEATED**
-   - **UNVERIFIED**
-   - **HISTORY CHECK INCOMPLETE**
-6. Apply the skill's corresponding decision and record the reason and evidence.
-
-### Workflow decisions
-
-- **NEW:** May proceed to source verification and editorial selection.
-- **UPDATED:** May proceed as an update only when the exact before-and-after change is identified and sourced.
-- **ONGOING:** Monitor; do not repackage as a new alert without a material change.
-- **REPEATED:** Reject as duplicate unless a genuinely useful, evidenced follow-up is justified.
-- **UNVERIFIED:** Hold for evidence; do not publish as confirmed.
-- **HISTORY CHECK INCOMPLETE:** Do not label the candidate NEW or claim a complete duplicate check. Hold until history is checked or an editor explicitly approves proceeding with the limitation disclosed.
-
-### History-access and integrity rules
-
-If X, Telegram, drafts or the Content & Source Log are unavailable, name the sources that could and could not be inspected. Never claim to have checked a source unless it was actually accessible and inspected during that run.
-
-Novelty is separate from truth. A NEW or UPDATED classification does not replace the source-verification requirements in Section 6, and it does not authorize publication by itself.
-
-Daily post targets must never override this gate.
 ## 11. Publication Decisions
 
 Every researched topic must receive one decision:
 
-**PUBLISH:** Current, sufficiently verified and useful to travellers.
+**RECOMMEND FOR APPROVAL:** Current, sufficiently verified and useful to travellers. This decision does not authorize publication.
 
 **MONITOR:** Credible development, but an update or confirmation is still needed.
 

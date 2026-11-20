@@ -45,7 +45,7 @@ Before researching, planning or producing any Travel Alerts.ke content, read and
 - `Brands/Travel-Alerts/hooks.md`
 - `Brands/Travel-Alerts/templates.md`
 
-The editorial-control document takes priority for Travel Alerts.ke topic selection, research freshness, source verification and publication decisions.
+The [master editorial policy](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/CHATGPT.md) governs Travel Alerts.ke alert eligibility and verification. The [research procedure](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_RESEARCH.md) supplies discovery, novelty and the TikTok shortlist gate. The [publishing runbook](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_PUBLISHING.md) governs exact-copy and destination approval. The local editorial-control document applies these rules to TikTok distribution, packaging and measurement.
 
 Do not produce a Travel Alerts.ke daily briefing or alert without applying its requirements. If a required source, content log or previous publication record is inaccessible, disclose that limitation rather than claiming it was checked.
 

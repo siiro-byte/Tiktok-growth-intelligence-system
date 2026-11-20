@@ -164,6 +164,8 @@ For every promising trend, identify:
 
 Avoid reproducing another creator's script, editing or distinctive creative work.
 
+For Travel Alerts.ke, apply the [editorial and TikTok eligibility gates](https://github.com/siiro-byte/Chatgpt.-Md/blob/main/TRAVELALERTS_RESEARCH.md#tiktok-trend-first-distribution-gate--17-nov-2026) before any publication recommendation. A trend label records observed demand. Claim verification and incident novelty are assessed independently.
+
 ## 9. Trend Freshness
 
 Use these guidelines:
