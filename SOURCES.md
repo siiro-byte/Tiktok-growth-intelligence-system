@@ -1,6 +1,6 @@
 # TikTok Growth Intelligence — Source Registry
 
-**Projects covered:** Travel Alerts.ke and Simo Traveller. Analyse the two brands separately.
+**Projects covered:** Travel Alerts.ke.
 
 **Purpose:** Provide a repeatable source base for TikTok and YouTube growth research, content experiments, audience discovery and competitor observation.
 
@@ -29,22 +29,6 @@ Monitor:
 - Public comments and questions as audience-intent signals, not factual proof.
 - Competitor public posts for format and topic comparison, not as authoritative sources.
 
-## Simo Traveller destination and travel sources
-
-| Source | Link | Use |
-|---|---|---|
-| Kenya Tourism Board / Magical Kenya | https://magicalkenya.com/ | Destination information and tourism inspiration |
-| Zambia Tourism Agency | https://www.zambia.travel/ | Destination and visitor information; confirm current details locally |
-| Zimbabwe Tourism Authority | https://zimbabwetourism.net/ | Destination information and attractions |
-| Botswana Tourism Organisation | https://www.botswanatourism.co.bw/ | Official destination information |
-| Namibia Tourism Board | https://visitnamibia.com.na/ | Official destination information |
-| TAZARA | https://www.tazarasite.com/ | Official railway information, route and service updates; confirm current timetable and ticketing directly |
-| Kenya Railways | https://krc.co.ke/ | Official rail service information |
-| Booking.com | https://www.booking.com/ | Accommodation discovery and booking details; verify cancellation terms and final prices |
-| Trip.com | https://www.trip.com/ | Travel product discovery; verify the operating provider and terms |
-
-For visas, passport rules, border status, health requirements and safety, use the destination country's responsible official authority and the traveller's own foreign-affairs authority. Tourism-board pages do not replace immigration or safety authorities.
-
 ## Audience and community signals
 
 - TikTok and YouTube comments on relevant public videos.
@@ -56,7 +40,7 @@ Record the date, country, destination, route and context. Distinguish first-hand
 
 ## Competitor observation
 
-For each brand, select relevant accounts separately and record:
+Select relevant accounts and record:
 - Account and platform URL.
 - Content pillar and topic.
 - Opening hook and first-frame visual.
@@ -72,7 +56,7 @@ Public engagement is not proof of reach, watch time, conversion or sales. Do not
 
 | Field | Required |
 |---|---|
-| Brand | Travel Alerts.ke or Simo Traveller |
+| Brand | Travel Alerts.ke |
 | Source / account | Exact name and URL |
 | Source class | First-party analytics, official source, public competitor, media or community lead |
 | Topic / experiment | What is being researched |
@@ -89,6 +73,6 @@ Public engagement is not proof of reach, watch time, conversion or sales. Do not
 - Use free/public sources and existing included account access first.
 - No paid analytics, credits, subscriptions, upgrades, ads or API calls without explicit fresh approval.
 - Before a paid operation, disclose provider, operation, data requested, estimated cost and maximum if known, currency and KES equivalent, free alternatives; then wait for approval.
-- Never bypass credit limits, mix the two brands' analytics or change account connections without approval.
+- Never bypass credit limits, mix analytics from different accounts or change account connections without approval.
 
 **Research principle:** Platform signals suggest what to test. First-party analytics determine what actually worked. Brand trust and factual accuracy take priority over trend chasing.

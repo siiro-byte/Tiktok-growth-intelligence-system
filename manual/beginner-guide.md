@@ -3,10 +3,9 @@
 
 ## 1. Introduction
 
-This system helps plan, research, create, publish and improve TikTok content for two separate brands:
+This system helps plan, research, create, publish and improve TikTok content for the Travel Alerts.ke brand:
 
 1. Travel Alerts.ke
-2. Simo Traveller
 
 Its purpose is to make content decisions more organised, consistent and evidence-led.
 
@@ -20,13 +19,11 @@ The repository contains different sections, each with a specific responsibility.
 |---|---|
 | Agent | Instructions governing how the AI agent works |
 | Algorithm | TikTok recommendation and search knowledge |
-| Brands | Separate strategies and content resources for each brand |
+| Brands | Brand strategy and content resources |
 | Research | Trends and competitor intelligence |
 | Analytics | Performance records and reports |
 | Experiments | Controlled tests to improve performance |
 | Manual | Guides for operating the system |
-
-Do not mix the identities or audiences of the two brands.
 
 ## 3. Choosing a Brand
 
@@ -44,19 +41,6 @@ Focus on:
 - African destinations and travel opportunities.
 
 Prioritise current, verified and useful travel information.
-
-### Simo Traveller
-
-Focus on:
-- African destinations.
-- Wildlife and safari experiences.
-- Hiking and outdoor activities.
-- Hidden gems and scenic locations.
-- Budget travel guides.
-- Transport and accommodation.
-- Travel stories and practical advice.
-
-Never claim personal travel experience unless it is genuine.
 
 ## 4. Main Ways to Use the System
 
@@ -156,7 +140,7 @@ Consider:
 - Did they visit the profile?
 - Did they follow the account?
 
-Compare similar videos and evaluate each brand independently.
+Compare similar videos.
 
 Do not assume one successful video proves a permanent winning formula.
 
@@ -176,7 +160,6 @@ Keep a record of unsuccessful tests as well as successful ones.
 
 ## 9. Important Operating Rules
 
-- Protect the separate identities of both brands.
 - Prioritise audience value over posting volume.
 - Never invent facts, prices, statistics or personal experiences.
 - Avoid unnecessary repetition.
@@ -190,7 +173,6 @@ Keep a record of unsuccessful tests as well as successful ones.
 A new user can begin with five simple requests:
 
 1. Research current content opportunities for Travel Alerts.ke.
-2. Find an interesting African destination for Simo Traveller.
 3. Create a complete TikTok video script for a selected topic.
 4. Analyse the performance of a published video.
 5. Recommend one experiment to improve future content.

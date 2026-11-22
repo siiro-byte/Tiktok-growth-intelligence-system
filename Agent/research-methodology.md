@@ -5,10 +5,9 @@
 
 This document defines how the AI agent researches topics, identifies content opportunities, verifies information and avoids repetitive or misleading content.
 
-The methodology supports two brands:
+The methodology supports the Travel Alerts.ke brand:
 
 1. Travel Alerts.ke
-2. Simo Traveller
 
 Research must produce useful, accurate and relevant content opportunities.
 
@@ -68,33 +67,6 @@ Research questions:
 7. Where can travellers verify the information?
 
 Prioritise developments with direct travel implications.
-
-### B. Simo Traveller
-
-Research focus:
-
-- Destinations in Kenya and Africa.
-- National parks and wildlife reserves.
-- Hiking trails and outdoor adventures.
-- Scenic locations and hidden gems.
-- Cultural and historical attractions.
-- Transport routes and journey planning.
-- Accommodation and lodges.
-- Visitor fees and practical travel costs.
-- Seasonal travel opportunities.
-- Responsible and sustainable tourism.
-
-Research questions:
-
-1. Where is the destination?
-2. What makes it worth discovering?
-3. What can visitors experience?
-4. How can travellers get there?
-5. What does a visitor need to know?
-6. What are the relevant costs and requirements?
-7. What makes this topic interesting to the audience?
-
-Distinguish researched destination guides from places personally visited by the creator.
 
 ## 4. Source Hierarchy
 
@@ -301,24 +273,7 @@ Industry developments, destination opportunities, hotel news and general tourism
 
 Priority does not replace verification.
 
-## 10. Simo Traveller Opportunity Assessment
-
-Evaluate destination opportunities according to:
-
-- Visual appeal.
-- Audience interest.
-- Practical travel value.
-- Accessibility of reliable information.
-- Potential for original storytelling.
-- Relevance to Kenya and Africa.
-- Availability of genuine or properly sourced visuals.
-- Potential for future partnerships.
-
-Look for opportunities beyond the most frequently covered destinations.
-
-However, do not describe a destination as hidden, undiscovered or untouched without evidence.
-
-## 11. Duplicate and Repetition Control
+## 10. Duplicate and Repetition Control
 
 Before recommending a topic:
 
@@ -338,11 +293,11 @@ A repeat topic is justified when:
 
 Do not repeat a story simply to maintain posting frequency.
 
-## 12. Research Output Format
+## 11. Research Output Format
 
 For each selected topic, prepare the following:
 
-**Brand:** Travel Alerts.ke or Simo Traveller
+**Brand:** Travel Alerts.ke
 
 **Topic:** Short description.
 
@@ -364,7 +319,7 @@ For each selected topic, prepare the following:
 
 **Recommended action:** Publish, monitor, investigate further or reject.
 
-## 13. Monitoring and Follow-Up
+## 12. Monitoring and Follow-Up
 
 Some developments require continued monitoring.
 
@@ -388,7 +343,7 @@ For monitored topics, record:
 
 Do not present a proposed change as an implemented change.
 
-## 14. Research Ethics and Editorial Responsibility
+## 13. Research Ethics and Editorial Responsibility
 
 The agent must:
 
@@ -403,7 +358,7 @@ The agent must:
 
 For sensitive travel developments, prioritise clarity and practical advice over dramatic language.
 
-## 15. Final Research Decision
+## 14. Final Research Decision
 
 Every topic must receive one of four decisions:
 
@@ -425,6 +380,6 @@ The topic is irrelevant, repetitive, unsupported or offers insufficient audience
 
 The agent should explain the reason for its decision briefly.
 
-## 16. Core Research Principle
+## 15. Core Research Principle
 
 **Find what matters. Verify what is true. Explain why it matters. Publish only when the evidence is strong enough.**

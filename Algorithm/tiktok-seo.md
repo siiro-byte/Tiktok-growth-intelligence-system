@@ -7,7 +7,6 @@ This document explains how to make videos easier to discover through TikTok Sear
 
 It provides practical search optimisation guidance for:
 - Travel Alerts.ke
-- Simo Traveller
 
 The objective is to reach people actively searching for useful travel information, not simply to chase viral trends.
 
@@ -184,78 +183,7 @@ Hashtags:
 
 Important: Verify entry requirements against current official sources before publishing. Never present old information as a current alert.
 
-## 4. Simo Traveller Search Strategy
-
-### Brand positioning
-
-Simo Traveller helps people discover and explore Kenya and Africa through practical travel guides, destination experiences, scenery and useful travel information.
-
-The content should answer questions that help viewers plan real trips.
-
-### Main keyword categories
-
-**Destinations**
-- Best places to visit in Kenya
-- Places to visit in Tanzania
-- Best destinations in Zambia
-- Zimbabwe tourism
-- Botswana travel guide
-
-**Wildlife and safaris**
-- Maasai Mara safari guide
-- Amboseli National Park
-- African wildlife safari
-- Kenya safari costs
-- Best time to visit Maasai Mara
-
-**Hiking and outdoor travel**
-- Hiking in Kenya
-- Mount Kipipiri hiking
-- Aberdare Forest hiking
-- Mount Suswa hiking
-- Camping in Kenya
-
-**Travel planning**
-- Kenya travel budget
-- African travel costs
-- How to travel by SGR in Kenya
-- Best mid-range hotels in Kenya
-- Solo travel in Africa
-
-**Transport and accommodation**
-- Kenya SGR travel guide
-- Nairobi to Mombasa train
-- Hotels in Watamu
-- Accommodation in Zambia
-- Getting around Zimbabwe
-
-### Recommended video structure
-
-1. Hook: introduce the destination or question.
-2. Visual introduction: show the destination.
-3. Practical information: costs, transport, access and requirements.
-4. Experience: explain what makes the place worth visiting.
-5. Next step: invite viewers to save, share or follow for more guides.
-
-### Example
-
-Primary keyword: Mount Suswa hiking guide
-
-Opening:
-"Looking for a hiking destination in Kenya beyond the usual trails? Let's explore Mount Suswa."
-
-On-screen headline:
-"Mount Suswa Hiking Guide | Kenya"
-
-Caption:
-"Planning a Mount Suswa hike? Here is what to know about the route, preparation, transport and what to expect. Confirm current access arrangements and local guide requirements before travelling."
-
-Hashtags:
-#MountSuswa #HikingKenya #KenyaTravel #OutdoorAdventure #SimoTraveller
-
-Never invent first-hand experiences, current prices or access conditions.
-
-## 5. Caption Writing Framework
+## 4. Caption Writing Framework
 
 Use this simple structure:
 
@@ -269,7 +197,7 @@ Captions should be written for people first.
 
 Do not repeat the same keyword unnaturally or use unrelated popular hashtags.
 
-## 6. Search-Friendly Video Production Checklist
+## 5. Search-Friendly Video Production Checklist
 
 Before publishing, check:
 
@@ -284,7 +212,7 @@ Before publishing, check:
 - [ ] Reliable sources for factual travel information.
 - [ ] No misleading claims or invented details.
 
-## 7. Performance Measurement
+## 6. Performance Measurement
 
 Where TikTok analytics provide the information, monitor:
 
@@ -303,7 +231,7 @@ A video with fewer views but strong search traffic, saves and relevant followers
 
 Review performance after a consistent testing period. Compare similar topics and formats rather than drawing conclusions from one video.
 
-## 8. Testing Framework
+## 7. Testing Framework
 
 For each experiment, record:
 
@@ -324,7 +252,7 @@ Change one major variable at a time where practical.
 
 Do not assume a successful result proves a universal TikTok ranking rule.
 
-## 9. Important SEO Mistakes to Avoid
+## 8. Important SEO Mistakes to Avoid
 
 - Using popular but unrelated hashtags.
 - Making promises the video does not fulfil.
@@ -337,7 +265,7 @@ Do not assume a successful result proves a universal TikTok ranking rule.
 - Treating search suggestions as verified search-volume data.
 - Assuming that every keyword must appear a fixed number of times.
 
-## 10. Official TikTok References
+## 9. Official TikTok References
 
 1. TikTok Support — How TikTok recommends content:
 https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content
@@ -355,7 +283,5 @@ Use official TikTok documentation as the primary reference. Recheck the document
 Build two recognisable travel brands that are discoverable when people search for useful travel information.
 
 Travel Alerts.ke should become a trusted source for African travel intelligence.
-
-Simo Traveller should become a useful travel resource for people planning to explore Kenya and Africa.
 
 Search optimisation must support accuracy, usefulness, audience trust and sustainable growth.

@@ -6,7 +6,6 @@
 This playbook turns the TikTok Growth Intelligence System into a practical growth operation for:
 
 1. Travel Alerts.ke
-2. Simo Traveller
 
 The objective is to build two credible brands with distinct audiences through research, valuable content, consistent production and evidence-led improvement.
 
@@ -19,7 +18,7 @@ Every growth decision should follow these principles:
 - Audience value comes before posting volume.
 - Strong content begins with a clear audience need.
 - Research should inform content decisions.
-- Each brand must maintain a distinct identity.
+- The brand must maintain a distinct identity.
 - Retention and engagement matter alongside reach.
 - Performance should be measured consistently.
 - Experiments should test specific hypotheses.
@@ -65,38 +64,6 @@ A travel alert should answer:
 
 Do not sacrifice accuracy for speed.
 
-### B. Simo Traveller
-
-**Positioning:** An African travel discovery and practical travel storytelling brand.
-
-Primary audience:
-- Budget-conscious travellers.
-- African travel enthusiasts.
-- Kenyan domestic travellers.
-- People interested in nature, wildlife and outdoor experiences.
-- Viewers planning African trips.
-
-Growth opportunities:
-
-1. Build recognisable destination series.
-2. Make lesser-known places easier to discover.
-3. Produce useful travel guides.
-4. Combine scenery with informative voiceovers.
-5. Develop a recognisable storytelling style.
-6. Build trust through useful, well-researched information.
-7. Convert interested viewers into returning followers and YouTube subscribers.
-
-Content priorities:
-- African destinations.
-- Hidden gems.
-- Wildlife and safari.
-- Hiking and outdoor travel.
-- Budget travel guides.
-- Transport and accommodation.
-- Travel stories and practical advice.
-
-Do not imply first-hand experience where none exists.
-
 ## 4. Content Discovery and Research
 
 Use the research resources:
@@ -119,11 +86,7 @@ A topic should not be selected simply because it is trending.
 
 For Travel Alerts.ke, freshness and verification are essential.
 
-For Simo Traveller, practical usefulness and destination appeal are essential.
-
 ## 5. Content Planning
-
-Plan content separately for each brand.
 
 A practical weekly planning process:
 
@@ -231,8 +194,6 @@ Use:
 - `analytics/performance-tracker.csv`
 - `analytics/weekly-reports.md`
 
-Review each brand independently.
-
 Every week, answer:
 
 1. Which videos performed best?
@@ -334,25 +295,11 @@ Potential opportunities:
 
 Editorial independence must be protected.
 
-### Simo Traveller
-
-Potential opportunities:
-- YouTube monetisation.
-- Hotel and lodge partnerships.
-- Destination and tourism collaborations.
-- Travel-related affiliate links.
-- Sponsored travel content.
-- Future travel services and products.
-
-Never present paid promotion as independent editorial judgement.
-
-Verify commercial terms and disclose partnerships appropriately.
-
 ## 15. Monthly Strategy Review
 
 At the end of each month:
 
-1. Review performance for both brands.
+1. Review performance.
 2. Identify the strongest content pillars.
 3. Compare formats and retention.
 4. Review follower and audience growth.
@@ -388,4 +335,4 @@ The goal is not to chase every trend or manufacture viral content.
 
 The goal is to understand audiences, publish useful material, measure real outcomes and improve decisions continuously.
 
-Build trust first. Use evidence to guide growth. Keep both brands distinctive.
+Build trust first. Use evidence to guide growth. Keep the brand distinctive.

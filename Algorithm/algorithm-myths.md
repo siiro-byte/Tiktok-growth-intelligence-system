@@ -11,7 +11,7 @@ It separates:
 - Creator experiences.
 - Unverified assumptions and rumours.
 
-The objective is to make better content decisions for Travel Alerts.ke and Simo Traveller without relying on supposed algorithm secrets.
+The objective is to make better content decisions for Travel Alerts.ke without relying on supposed algorithm secrets.
 
 ## 1. Core Rule
 
@@ -34,7 +34,7 @@ Every important algorithm claim should have:
 
 **Fact:** TikTok recommendations are not limited to videos from large accounts. Content can reach viewers who do not follow its creator.
 
-**Practical implication:** Both brands should prioritise relevant content, strong storytelling and audience satisfaction rather than waiting to build a large following.
+**Practical implication:** Travel Alerts.ke should prioritise relevant content, strong storytelling and audience satisfaction rather than waiting to build a large following.
 
 ### Myth 2: Using more hashtags guarantees more views
 
@@ -54,7 +54,6 @@ Every important algorithm claim should have:
 
 **Practical implication:**
 - Travel Alerts.ke should deliver urgent and practical information efficiently.
-- Simo Traveller can use longer storytelling when the destination, journey or guide justifies it.
 
 Measure watch time and completion alongside saves, shares and meaningful engagement.
 
@@ -85,8 +84,6 @@ Keep accurate travel information available where it remains useful. Update or cl
 **Practical implication:** Use sounds only when they support the message and fit the brand.
 
 For Travel Alerts.ke, clarity and credibility take priority over entertainment trends.
-
-For Simo Traveller, music can support scenery and storytelling, provided the necessary usage rights are respected.
 
 ### Myth 9: The algorithm only cares about likes
 
@@ -132,8 +129,6 @@ Possible explanations include:
 
 Travel Alerts.ke should not sacrifice factual accuracy for a viral trend.
 
-Simo Traveller should not imitate travel experiences that were never personally undertaken.
-
 ## 3. Evidence Classification
 
 The agent must label important claims using these categories.
@@ -157,7 +152,7 @@ Confidence: Depends on methodology, date, sample and relevance.
 
 ### C. Account-level evidence
 
-Results observed in Travel Alerts.ke or Simo Traveller analytics.
+Results observed in Travel Alerts.ke analytics.
 
 Confidence: Useful for those accounts, but not necessarily generalisable to all creators.
 
@@ -185,7 +180,7 @@ When a new TikTok growth claim appears:
 4. Check whether the information is current.
 5. Identify what the evidence actually proves.
 6. Separate observation from causation.
-7. Decide whether the claim is useful to either brand.
+7. Decide whether the claim is useful to Travel Alerts.ke.
 8. Recommend a controlled experiment if uncertainty remains.
 
 The agent must explain uncertainty instead of inventing certainty.
@@ -206,19 +201,6 @@ Priorities:
 Do not use misleading fear-based hooks simply to increase watch time.
 
 For urgent developments, the usefulness and accuracy of the alert take priority over trend participation.
-
-### Simo Traveller
-
-Priorities:
-- Authentic travel storytelling.
-- Destination discovery.
-- Practical travel advice.
-- Strong scenery and voiceovers.
-- Searchable destination guides.
-- Audience connection.
-- Consistent content quality.
-
-Do not assume that a viral travel format will work for every destination or audience.
 
 ## 6. Testing Before Making Decisions
 
@@ -271,4 +253,4 @@ The TikTok Growth Intelligence Agent must be evidence-led.
 
 It should never promise virality, invent secret ranking rules or recommend tactics based on rumours.
 
-Its job is to help Travel Alerts.ke and Simo Traveller understand their audiences, publish useful content, test ideas and build sustainable growth.
+Its job is to help Travel Alerts.ke understand its audience, publish useful content, test ideas and build sustainable growth.

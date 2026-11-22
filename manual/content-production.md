@@ -7,9 +7,6 @@ This manual defines the practical workflow for turning a researched topic into a
 
 It applies to:
 - Travel Alerts.ke
-- Simo Traveller
-
-The two brands must retain separate audiences, voices, visual identities and content objectives.
 
 ## 2. Production Workflow
 
@@ -66,20 +63,6 @@ Record:
 
 Never present a rumour as a confirmed alert.
 
-### Simo Traveller
-
-For destination and travel guides, verify:
-- Location and accessibility.
-- Entry requirements.
-- Opening hours and visitor restrictions.
-- Fees and booking requirements.
-- Transport options.
-- Accommodation information.
-- Seasonal considerations.
-- Safety and responsible travel advice.
-
-Clearly distinguish researched information from first-hand experience.
-
 ## 5. Stage Three: Choose the Video Angle
 
 A topic is not yet a video idea.
@@ -93,12 +76,6 @@ Travel Alerts.ke:
 - Who is affected?
 - What should travellers do?
 - What is the latest official guidance?
-
-Simo Traveller:
-- Why visit this destination?
-- How can someone get there?
-- What should visitors expect?
-- What does a practical trip involve?
 
 Avoid trying to explain too many unrelated things in one video.
 
@@ -149,14 +126,6 @@ Do not use unrelated visuals in a way that could mislead viewers.
 - Minimal graphics.
 - Clear Travel Alerts.ke branding.
 - No unnecessary flags, decorative icons or clutter.
-
-### Simo Traveller visual direction
-
-- Prioritise genuine destination scenery and relevant travel footage.
-- Use natural, cinematic visual storytelling.
-- Keep text readable and limited.
-- Match footage to the narration.
-- Avoid presenting stock footage as personal travel footage.
 
 ## 8. Stage Six: Recording and Asset Collection
 

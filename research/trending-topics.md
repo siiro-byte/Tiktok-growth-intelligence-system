@@ -6,11 +6,10 @@
 This document defines how the agent discovers, evaluates and tracks trending topics for:
 
 - Travel Alerts.ke
-- Simo Traveller
 
 The objective is to identify timely topics that attract relevant audiences and provide genuine value.
 
-A topic being popular does not automatically make it suitable for either brand.
+A topic being popular does not automatically make it suitable for Travel Alerts.ke.
 
 ## 2. Research Principles
 
@@ -45,25 +44,6 @@ Monitor trends involving:
 Priority: Current, relevant and actionable travel information.
 
 Do not turn unrelated viral news into travel content.
-
-### B. Simo Traveller
-
-Monitor trends involving:
-
-- Kenyan destinations and attractions.
-- African travel destinations.
-- Wildlife and safari experiences.
-- Hiking, camping and outdoor adventures.
-- Budget travel and money-saving ideas.
-- Transport and accommodation guides.
-- Hidden gems and lesser-known locations.
-- Cultural and historical experiences.
-- Practical travel questions.
-- Travel storytelling and destination discovery.
-
-Priority: Topics that inspire people to travel, help them plan and encourage them to follow the creator.
-
-Do not present researched information as a personal experience.
 
 ## 4. Trend Discovery Sources
 
@@ -196,7 +176,7 @@ Do not invent a new angle simply to make an ordinary topic appear original.
 
 Each recommended opportunity must include:
 
-**Brand:** Travel Alerts.ke or Simo Traveller
+**Brand:** Travel Alerts.ke
 
 **Topic:** Proposed subject.
 

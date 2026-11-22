@@ -2,7 +2,7 @@
 # TikTok Recommendation Signals
 
 ## Purpose
-This document records what is publicly known about TikTok's recommendation systems and translates it into practical, testable guidance for Travel Alerts.ke and Simo Traveller.
+This document records what is publicly known about TikTok's recommendation systems and translates it into practical, testable guidance for Travel Alerts.ke.
 
 It is not a claim to know TikTok's private ranking formula. TikTok says its systems use multiple factors, and their relative importance can change.
 
@@ -87,12 +87,6 @@ For Travel Alerts.ke:
 - Distinguish confirmed restrictions from enhanced screening, advisories or proposals.
 - Correct outdated information promptly.
 
-For Simo Traveller:
-- Avoid misleading destination and safety claims.
-- Respect filming restrictions and local rules.
-- Never present stock footage as personal experience.
-- Use licensed or original footage and audio.
-
 ## 6. Practical Application by Brand
 
 ### Travel Alerts.ke
@@ -113,24 +107,6 @@ Suggested structure:
 
 Goal: Useful completion, saves, shares and trust—not alarm.
 
-### Simo Traveller
-
-Build videos around a clear travel desire or decision:
-- Is this destination worth visiting?
-- How do you get there?
-- What does a trip cost?
-- What should a first-time visitor know?
-- What can a traveller see or do?
-
-Suggested structure:
-1. Visual or spoken hook.
-2. Show the destination or experience.
-3. Add useful context: route, timing, costs or practical tips.
-4. Deliver the promised answer.
-5. Invite a relevant question or follow.
-
-Goal: Storytelling combined with practical value.
-
 ## 7. Testing Framework
 
 For each test, record:
@@ -138,7 +114,7 @@ For each test, record:
 | Field | What to record |
 |---|---|
 | Hypothesis | What do we expect to improve? |
-| Brand | Travel Alerts.ke or Simo Traveller |
+| Brand | Travel Alerts.ke |
 | Topic | The video subject |
 | Variable | Hook, length, pacing, format, caption or CTA |
 | Baseline | Comparable recent videos |

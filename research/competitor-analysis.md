@@ -5,10 +5,9 @@
 
 This document defines how the AI agent studies competing and influential creators to understand content performance, audience behaviour, positioning and growth opportunities.
 
-The analysis supports two separate brands:
+The analysis supports the Travel Alerts.ke brand:
 
 - Travel Alerts.ke
-- Simo Traveller
 
 The objective is to learn from observable evidence, identify gaps and develop distinctive content strategies.
 
@@ -50,28 +49,6 @@ Include relevant:
 - Tourism authorities.
 - Travel information creators.
 - Regional media organisations.
-
-### B. Simo Traveller
-
-Study creators covering:
-
-- Kenya travel.
-- African destinations.
-- Budget travel.
-- Wildlife and safaris.
-- Hiking and outdoor adventures.
-- Camping.
-- Destination guides.
-- Travel storytelling.
-- Transport and accommodation.
-- Practical travel planning.
-
-Include:
-- Kenyan travel creators.
-- African travel creators.
-- Regional tourism publishers.
-- Destination specialists.
-- Relevant international creators with overlapping audiences.
 
 ## 4. Competitor Selection
 
@@ -198,23 +175,6 @@ The brand's differentiation should be accurate, current and practical travel int
 
 Do not imitate sensational headlines or publish unverified alerts for attention.
 
-### B. Simo Traveller
-
-Look for opportunities involving:
-
-- Destinations receiving insufficient attention.
-- More useful travel planning information.
-- Better storytelling through scenery and voiceover.
-- Budget-conscious travel ideas.
-- Practical transport and accommodation guides.
-- Wildlife and outdoor experiences.
-- Stronger recurring content series.
-- Audience questions that existing creators overlook.
-
-The brand's differentiation should combine discovery, practical value and trustworthy storytelling.
-
-Do not claim personal experience where none exists.
-
 ## 10. Content Gap Identification
 
 For every competitor category, investigate:
@@ -248,7 +208,7 @@ Use the score to organise research, not to declare an absolute winner.
 
 For each competitor analysis, provide:
 
-**Brand:** Travel Alerts.ke or Simo Traveller
+**Brand:** Travel Alerts.ke
 
 **Competitor:** Account name.
 

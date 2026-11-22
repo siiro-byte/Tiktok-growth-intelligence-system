@@ -6,7 +6,6 @@
 Record controlled experiments to discover which content approaches improve growth for:
 
 - Travel Alerts.ke
-- Simo Traveller
 
 Decisions must be based on observed performance, not assumptions.
 
@@ -19,7 +18,6 @@ Decisions must be based on observed performance, not assumptions.
 5. Do not declare a winner from one video alone.
 6. Repeat promising experiments before adopting them permanently.
 7. Never sacrifice factual accuracy or audience trust for views.
-8. Analyse each brand separately.
 
 ## 3. Experiment Categories
 
@@ -108,10 +106,8 @@ Add a new record for every experiment. Never overwrite previous results.
 
 ## 7. Final Principle
 
-Test deliberately. Measure consistently. Learn from evidence. Apply successful findings without compromising either brand's identity or credibility.
-
-
+Test deliberately. Measure consistently. Learn from evidence. Apply successful findings without compromising the brand's identity or credibility.
 
 ## Research sources
 
-Use the [TikTok Growth Intelligence source registry](https://github.com/siiro-byte/Tiktok-growth-intelligence-system/blob/main/SOURCES.md) for platform-native trend research, creator analytics, competitor observation and links to each brand's project-specific sources. Keep Travel Alerts.ke and Simo Traveller analysis separate.
+Use the [TikTok Growth Intelligence source registry](https://github.com/siiro-byte/Tiktok-growth-intelligence-system/blob/main/SOURCES.md) for platform-native trend research, creator analytics, competitor observation and links to project-specific sources.

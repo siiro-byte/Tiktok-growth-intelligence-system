@@ -6,7 +6,6 @@
 This document defines how the AI agent reviews weekly content performance and recommends improvements for:
 
 - Travel Alerts.ke
-- Simo Traveller
 
 The objective is to turn performance data into better content decisions, stronger audience relationships and sustainable growth.
 
@@ -16,7 +15,6 @@ Do not judge performance using views alone.
 
 The agent must:
 
-- Analyse each brand separately.
 - Use actual recorded performance data.
 - Identify missing or incomplete measurements.
 - Compare similar videos and formats where possible.
@@ -141,21 +139,6 @@ Assess:
 Prioritise accuracy, relevance, timeliness and audience trust.
 
 High views do not justify weak or sensational reporting.
-
-### B. Simo Traveller
-
-Assess:
-
-- Which destinations attracted interest?
-- Which travel experiences generated engagement?
-- Which videos encouraged people to save or share?
-- Did voiceover and scenery hold attention?
-- Which practical guides answered audience needs?
-- Which topics attracted new followers?
-- Which content encouraged meaningful discussion?
-- Which recurring series deserve continuation?
-
-Prioritise audience loyalty, useful travel information and distinctive storytelling.
 
 ## 7. Content Format Analysis
 
@@ -334,7 +317,6 @@ The agent must:
 - Avoid fabricated benchmarks.
 - Avoid unsupported algorithm explanations.
 - Separate observations from hypotheses.
-- Keep the two brands' results separate.
 - Protect account and audience privacy.
 
 ## 15. Core Principle
